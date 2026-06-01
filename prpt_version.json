@@ -1,0 +1,53 @@
+{
+  "version": "0.1",
+  "styles": [
+    {
+      "name": "🐱 Chibi Cat Girl",
+      "prompt": "A horizontal 3-view character turnaround sheet of an adorable chibi cat girl character: showing front view, side view (left profile), and back view side by side. Big sparkling eyes, tiny cat ears, fluffy tail, wearing a pastel pink dress with ribbons, kawaii style, standing T-pose (arms stretched out horizontally but fully contained within each view), Pixar-quality render, soft pastel colors, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🧸 Bear Knight",
+      "prompt": "A horizontal 3-view character turnaround sheet of a cute round teddy bear knight character: showing front view, side view (left profile), and back view side by side. Plush bear with round body, tiny sword and shield, adorable mini armor, big round eyes, blushing cheeks, standing T-pose (arms stretched out horizontally but fully contained within each view), soft toy aesthetic, warm lighting, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🐉 Baby Dragon",
+      "prompt": "A horizontal 3-view character turnaround sheet of a baby dragon character: showing front view, side view (left profile), and back view side by side. Chubby round body, tiny wings, big adorable eyes, small horns, pastel green scales, cute smile, standing T-pose (arms/claws stretched out horizontally, fully contained within each view), cartoon 3D style, soft studio lighting, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🍄 Mushroom Fairy",
+      "prompt": "A horizontal 3-view character turnaround sheet of a magical mushroom fairy character: showing front view, side view (left profile), and back view side by side. Tiny humanoid with a large mushroom cap hat, translucent sparkly wings, big round eyes, cheerful expression, wearing leaf clothing, standing T-pose (arms stretched out horizontally but fully contained within each view), enchanted forest aesthetic, Pixar render, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🤖 Robot Puppy",
+      "prompt": "A horizontal 3-view character turnaround sheet of a cute robot puppy character: showing front view, side view (left profile), and back view side by side. Round mechanical body, floppy antenna ears, glowing LED eyes, wagging wire tail, shiny metallic pastel blue finish, standing T-pose (legs stretched out, fully contained within each view), kawaii tech style, soft lighting, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🐧 Penguin Wizard",
+      "prompt": "A horizontal 3-view character turnaround sheet of a tiny penguin wizard character: showing front view, side view (left profile), and back view side by side. Adorable chubby penguin wearing a starry wizard hat and cape, holding a tiny glowing wand, big cute eyes, standing T-pose (flippers stretched out horizontally, fully contained within each view), magical sparkle effects, Pixar 3D render, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🦊 Ninja Fox",
+      "prompt": "A horizontal 3-view character turnaround sheet of a cute red fox ninja: showing front view, side view (left profile), and back view side by side. Red fur, big yellow eyes, wearing a dark black ninja costume and red scarf, tiny ninja headband, standing T-pose (arms stretched out horizontally, fully contained within each view), chibi style, Pixar 3D render, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🚀 Astro Bunny",
+      "prompt": "A horizontal 3-view character turnaround sheet of a chubby white space astronaut bunny: showing front view, side view (left profile), and back view side by side. Cute long ears, big black eyes, wearing a detailed glossy silver spacesuit with a carrot emblem, round helmet, standing T-pose (arms stretched out horizontally, fully contained within each view), 3D render style, studio lighting, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🦖 Dino Chef",
+      "prompt": "A horizontal 3-view character turnaround sheet of a cute baby green dinosaur chef: showing front view, side view (left profile), and back view side by side. Chubby round body, wearing a tall white chef hat and a small apron, holding a tiny wooden spoon, standing T-pose (arms/claws stretched out horizontally, fully contained within each view), claymation style, Pixar render, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🐱 Cyber Kitten",
+      "prompt": "A horizontal 3-view character turnaround sheet of a futuristic white cybernetic kitten: showing front view, side view (left profile), and back view side by side. Glowing neon pink visor and ears, robotic metal details, shiny metallic finish, standing T-pose (legs/paws stretched out, fully contained within each view), sci-fi chibi style, Octane render, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "🐷 Pirate Piggy",
+      "prompt": "A horizontal 3-view character turnaround sheet of a cute chubby pirate piggy: showing front view, side view (left profile), and back view side by side. Round pink piglet wearing a tiny black pirate hat with a skull logo, a striped sailor shirt, and a tiny eye patch, standing T-pose (arms stretched out, fully contained within each view), 3D game asset style, warm lighting, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    },
+    {
+      "name": "💧 Bubble Slime",
+      "prompt": "A horizontal 3-view character turnaround sheet of a cute transparent gelatinous bubble slime: showing front view, side view (left profile), and back view side by side. Squishy pink jelly body with bubbles inside, wearing tiny aviator goggles on its head, big smiley face, standing T-pose (small jelly arms stretched out, fully contained within each view), shiny refraction material, Pixar style, white backdrop, generous empty margins, wide spacing between views, no parts cut off at the edges"
+    }
+  ]
+}
